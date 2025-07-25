@@ -1,2 +1,2 @@
 # TMM-for-ML
-The Latex paper of the brief overview of algorithms used for memory management, including some machine learning algorithms and techniques.
+The Latex paper of the brief overview of algorithms used for memory management, including naive and machine learning algorithms and techniques.
